@@ -1,0 +1,71 @@
+End User License Agreement (EULA)
+
+IMPORTANT – READ CAREFULLY
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("You" or "User") and Hexadecimal Development (Hunt Burke) ("Licensor"), for the software product "The Misadventure of Blocky" ("Software").
+
+By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
+
+---
+
+1. License Grant
+
+Licensor grants you a limited, non-exclusive, non-transferable, revocable license to use the Software for personal or internal use, subject to the terms of this Agreement.
+
+---
+
+2. Restrictions
+
+You may not:
+- Modify, distribute, or create derivative works based on the Software;
+- Reverse engineer, decompile, or disassemble the Software, except as permitted by law;
+- Sell, rent, lease, sublicense, or otherwise transfer the Software to any third party;
+- Use the Software for any commercial or competitive purposes without prior written consent.
+
+---
+
+3. Ownership
+
+The Software is licensed, not sold. Licensor retains all rights, title, and interest in and to the Software, including all related intellectual property rights.
+
+---
+
+4. Updates
+
+Licensor may, but is not obligated to, provide updates or bug fixes. Any such updates are considered part of the Software and subject to this Agreement.
+
+---
+
+5. Termination
+
+This Agreement is effective until terminated. You may terminate it at any time by deleting the Software. It will also terminate automatically if you breach any term of this Agreement.
+
+Upon termination, you must destroy all copies of the Software in your possession.
+
+---
+
+6. Disclaimer of Warranty
+
+The Software is provided "as is" without warranties of any kind, either express or implied. You assume all risk associated with its use.
+
+---
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, Licensor shall not be liable for any damages arising out of or in connection with the use or performance of the Software.
+
+---
+
+8. Governing Law
+
+This Agreement shall be governed by the laws of The United States of America, without regard to conflict of law principles.
+
+---
+
+9. Contact
+
+For questions about this Agreement, contact: huntjburke@gmail.com
+
+---
+
+By using the Software, you acknowledge that you have read and understood this Agreement and agree to its terms.
